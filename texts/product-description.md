@@ -8,7 +8,7 @@ The DEMO Board X1 is a compact development board for makers, students and design
 
 - **Small:** fits in the palm of your hand
 - **Friendly:** plug in with USB-C and start in minutes
-- **Flexible:** 28 pins for sensors, lights and motors
+- **Flexible:** 30 pins for sensors, lights and motors
 
 ## In the box
 
